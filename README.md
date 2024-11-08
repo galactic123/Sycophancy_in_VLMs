@@ -1,1 +1,2 @@
-# sycophancy_in_VLMs
+# Sycophancy_in_VLMs
+The datasets and code is coming.
