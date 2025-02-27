@@ -1,2 +1,2 @@
-# Sycophancy_in_VLMs
+# HAVE THE VISION-LANGUAGE MODELS LOST CONFIDENCE? A STUDY OF SYCOPHANCY IN VLMS.
 The datasets and code is coming.
